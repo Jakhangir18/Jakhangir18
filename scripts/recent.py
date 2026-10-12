@@ -37,8 +37,10 @@ def main():
     items = [r for r in repos() if not r["fork"] and not r["private"] and r["name"] not in SKIP][:5]
     readme = Path("README.md")
     text = readme.read_text()
-    new = re.sub(r"(<!-- recent:start -->\n).*?(<!-- recent:end -->)",
-                 lambda m: m.group(1) + block(items) + "\n" + m.group(2), text, flags=re.S)
+    new, n = re.subn(r"(<!-- recent:start -->\r?\n).*?(<!-- recent:end -->)",
+                     lambda m: m.group(1) + block(items) + "\n" + m.group(2), text, flags=re.S)
+    if n != 1:
+        raise SystemExit("README.md: expected one <!-- recent:start --> ... <!-- recent:end --> block")
     if new != text:
         readme.write_text(new)
         print("README updated")
