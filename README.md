@@ -78,11 +78,11 @@ hardware      Raspberry Pi · Arduino · circuit design · soldering · 3D print
 <!-- recent:start -->
 | Repository | What it is | Last push |
 |---|---|---|
-| [drone-sim](https://github.com/Jakhangir18/drone-sim) | MuJoCo simulation of a robot arm and hand for VR teleoperation research at Oregon State (in progress) | Oct 12, 2026 |
-| [sadap-clinicAMS](https://github.com/Jakhangir18/sadap-clinicAMS) | Next.js + Supabase site for a clinic in Aktau: doctors directory and an admin dashboard with doctor CRUD and certificate uploads | Oct 12, 2026 |
+| [ai-debate-arena](https://github.com/Jakhangir18/ai-debate-arena) | Two models argue it out: GPT-4o as a YC partner vs GPT-4o-mini as a senior engineer, then a judge model rules | Oct 12, 2026 |
 | [see-ai](https://github.com/Jakhangir18/see-ai) | Real-time YOLOv8n object detection in the browser with ONNX Runtime Web; no server, inference runs on the device | Oct 12, 2026 |
 | [commitweather](https://github.com/Jakhangir18/commitweather) | Turns a GitHub user's commit activity into a generated weather landscape. Next.js + TypeScript | Oct 12, 2026 |
-| [works-only-project-](https://github.com/Jakhangir18/works-only-project-) | Source of tynshimov.com: Astro + GSAP portfolio with a Playwright performance harness run against the production build | Oct 12, 2026 |
+| [drone-sim](https://github.com/Jakhangir18/drone-sim) | MuJoCo simulation of a robot arm and hand for VR teleoperation research at Oregon State (in progress) | Oct 12, 2026 |
+| [sadap-clinicAMS](https://github.com/Jakhangir18/sadap-clinicAMS) | Next.js + Supabase site for a clinic in Aktau: doctors directory and an admin dashboard with doctor CRUD and certificate uploads | Oct 12, 2026 |
 <!-- recent:end -->
 
 <picture>
