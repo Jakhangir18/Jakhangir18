@@ -5,7 +5,7 @@
 
 Hi, I'm Jak. I study computer science at Oregon State ('28) and build software that reaches into the physical world: haptic wearables, robot learning in simulation, and production web.
 
-I'm looking for a **Summer 2027 software engineering internship**. Portfolio with a case study for every project: **[tynshimov.com](https://www.tynshimov.com)** · [LinkedIn](https://www.linkedin.com/in/tynshimov)
+Portfolio with a case study for every project: **[tynshimov.com](https://www.tynshimov.com)** · [LinkedIn](https://www.linkedin.com/in/tynshimov)
 
 ### Now
 
