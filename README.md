@@ -62,7 +62,7 @@ Portfolio with a case study for every project: **[tynshimov.com](https://www.tyn
   </tr>
 </table>
 
-Also: [NBA Predictors](https://devpost.com/software/nba-predictors), winner of the GDG Winter 2026 Hackathon (React Native, Supabase, ML projections) · [see-ai](https://github.com/Jakhangir18/see-ai), YOLOv8 object detection running in the browser · [commitweather](https://github.com/Jakhangir18/commitweather), commit history turned into a weather landscape · [this site's source](https://github.com/Jakhangir18/works-only-project-)
+Also: [NBA Predictors](https://devpost.com/software/nba-predictors), winner of the GDG Winter 2026 Hackathon (React Native, Supabase, ML projections) · [see-ai](https://github.com/Jakhangir18/see-ai), YOLOv8 object detection running in the browser · [commitweather](https://github.com/Jakhangir18/commitweather), commit history turned into a weather landscape · [ai-debate-arena](https://github.com/Jakhangir18/ai-debate-arena), GPT-4o and GPT-4o-mini argue a question and a judge model rules · [this site's source](https://github.com/Jakhangir18/works-only-project-)
 
 ### Toolkit
 
