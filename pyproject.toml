@@ -1,0 +1,14 @@
+[tool.pytest.ini_options]
+pythonpath = [".", "scripts"]  # tests import scripts.world; world.py imports climate
+testpaths = ["tests"]
+
+[tool.mutmut]
+source_paths = ["scripts"]
+# world.py is drawing code: its mutants are colours and coordinates, checked by eye instead.
+do_not_mutate = ["scripts/recent.py", "scripts/braille.py", "scripts/world.py"]
+
+[tool.pyright]
+extraPaths = ["scripts"]
+
+[tool.ruff]
+line-length = 100
