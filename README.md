@@ -7,6 +7,15 @@ Hi, I'm Jak. I study computer science at Oregon State ('28) and build software t
 
 Portfolio with a case study for every project: **[tynshimov.com](https://www.tynshimov.com)** · [LinkedIn](https://www.linkedin.com/in/tynshimov)
 
+<!-- world:start -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/world-dark.svg">
+  <img src="assets/world-light.svg" width="100%" alt="A pixel-art valley grown from my commit history: Summer, score 86 of 100. One tree for each week of the past six months.">
+</picture>
+
+<sub><b>Summer, 86 of 100.</b> This valley is redrawn every day from my commits by the rules of <a href="https://github.com/Jakhangir18/commitweather">commitweather</a>, a project of mine: steady work brings summer, silence brings fog. Each tree is one week of the past six months and grows with that week's contributions. <a href="scripts/world.py">How it works</a></sub>
+<!-- world:end -->
+
 ### Now
 
 | | |
@@ -62,7 +71,7 @@ Portfolio with a case study for every project: **[tynshimov.com](https://www.tyn
   </tr>
 </table>
 
-Also: [NBA Predictors](https://devpost.com/software/nba-predictors), winner of the GDG Winter 2026 Hackathon (React Native, Supabase, ML projections) · [see-ai](https://github.com/Jakhangir18/see-ai), YOLOv8 object detection running in the browser · [commitweather](https://github.com/Jakhangir18/commitweather), commit history turned into a weather landscape · [ai-debate-arena](https://github.com/Jakhangir18/ai-debate-arena), GPT-4o and GPT-4o-mini argue a question and a judge model rules · [this site's source](https://github.com/Jakhangir18/works-only-project-)
+Also: [Zombie Walk Home](https://github.com/Jakhangir18/Dubhacks2026), winner of MLH Best Use of Gemini API at DubHacks '26: a projected walking game that turns physical-therapy exercises into play, coached by a Gemini AI therapist · [NBA Predictors](https://devpost.com/software/nba-predictors), winner of the GDG Winter 2026 Hackathon (React Native, Supabase, ML projections) · [see-ai](https://github.com/Jakhangir18/see-ai), YOLOv8 object detection running in the browser · [commitweather](https://github.com/Jakhangir18/commitweather), commit history turned into a weather landscape · [ai-debate-arena](https://github.com/Jakhangir18/ai-debate-arena), GPT-4o and GPT-4o-mini argue a question and a judge model rules · [this site's source](https://github.com/Jakhangir18/works-only-project-)
 
 ### Toolkit
 
