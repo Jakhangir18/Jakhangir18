@@ -20,9 +20,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # A failure here fails the run (GitHub emails me) and leaves the last good picture in place.
+      # The workflow's own token sees public contributions only. PROFILE_TOKEN is a personal
+      # token with the read:user scope, so the trees also count work in private repositories.
       - run: python3 scripts/world.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
       - name: Commit if changed
         if: always()
         run: |
