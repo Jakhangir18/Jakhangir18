@@ -11,7 +11,7 @@ Portfolio with a case study for every project: **[tynshimov.com](https://www.tyn
 
 | | |
 |---|---|
-| **Research** | Robot arm and hand in MuJoCo in Prof. Raffaele De Amicis's lab at Oregon State: reinforcement learning in MuJoCo Playground, imitation learning with LeRobot and ACT, VR teleoperation. Work in progress: [drone-sim](https://github.com/Jakhangir18/drone-sim) |
+| **Research** | Robot arm and hand in MuJoCo in Prof. Raffaele De Amicis's lab at Oregon State: reinforcement learning in MuJoCo Playground, imitation learning with LeRobot and ACT, VR teleoperation. Work in progress: [quest-shadow-hand-teleop](https://github.com/Extended-reality-Lab/quest-shadow-hand-teleop) |
 | **Leading** | President of Google Developer Group on Campus at Oregon State, 200+ students registered. [What we do](https://www.tynshimov.com/work/gdg/) |
 | **Shipped** | Software engineer intern at Zyp (Aug–Sep 2026): built and launched [www.zyp.co](https://www.zyp.co), 67 of its 68 pull requests. Astro + TypeScript, a scroll-scrubbed canvas hero, Playwright + axe tests, Lighthouse 100 on desktop. [Case study](https://www.tynshimov.com/work/zyp/) |
 
