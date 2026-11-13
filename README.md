@@ -87,7 +87,7 @@ hardware      Raspberry Pi · Arduino · circuit design · soldering · 3D print
 <!-- recent:start -->
 | Repository | What it is | Last push |
 |---|---|---|
-| [Dubhacks2026](https://github.com/Jakhangir18/Dubhacks2026) |  | Oct 25, 2026 |
+| [Dubhacks2026](https://github.com/Jakhangir18/Dubhacks2026) | Zombie Walk Home (Stride Defense): a projected walking game that turns physical-therapy exercises into play, coached by a Gemini AI therapist. DubHacks '26, winner of MLH Best Use of Gemini API. | Oct 25, 2026 |
 | [works-only-project-](https://github.com/Jakhangir18/works-only-project-) | Source of tynshimov.com: Astro + GSAP portfolio with a Playwright performance harness run against the production build | Oct 23, 2026 |
 | [ai-debate-arena](https://github.com/Jakhangir18/ai-debate-arena) | Two models argue it out: GPT-4o as a YC partner vs GPT-4o-mini as a senior engineer, then a judge model rules | Oct 12, 2026 |
 | [see-ai](https://github.com/Jakhangir18/see-ai) | Real-time YOLOv8n object detection in the browser with ONNX Runtime Web; no server, inference runs on the device | Oct 12, 2026 |
