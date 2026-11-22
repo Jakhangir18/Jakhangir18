@@ -10,10 +10,10 @@ Portfolio with a case study for every project: **[tynshimov.com](https://www.tyn
 <!-- world:start -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/world-dark.svg">
-  <img src="assets/world-light.svg" width="100%" alt="A pixel-art valley grown from my commit history: Summer, score 86 of 100. One tree for each week of the past six months.">
+  <img src="assets/world-light.svg" width="100%" alt="A pixel-art valley grown from my commit history: Summer, score 87 of 100. One tree for each week of the past six months.">
 </picture>
 
-<sub><b>Summer, 86 of 100.</b> This valley is redrawn every day from my commits by the rules of <a href="https://github.com/Jakhangir18/commitweather">commitweather</a>, a project of mine: steady work brings summer, silence brings fog. Each tree is one week of the past six months and grows with that week's contributions. <a href="scripts/world.py">How it works</a></sub>
+<sub><b>Summer, 87 of 100.</b> This valley is redrawn every day from my commits by the rules of <a href="https://github.com/Jakhangir18/commitweather">commitweather</a>, a project of mine: steady work brings summer, silence brings fog. Each tree is one week of the past six months and grows with that week's contributions. <a href="scripts/world.py">How it works</a></sub>
 <!-- world:end -->
 
 ### Now
@@ -87,11 +87,11 @@ hardware      Raspberry Pi · Arduino · circuit design · soldering · 3D print
 <!-- recent:start -->
 | Repository | What it is | Last push |
 |---|---|---|
+| [neetcode-submissions](https://github.com/Jakhangir18/neetcode-submissions) | My NeetCode.io problem submissions | Nov 22, 2026 |
 | [k3s-homelab](https://github.com/Jakhangir18/k3s-homelab) | Three-node k3s home lab skeleton: OpenTelemetry/Prometheus/Grafana monitoring, tested backups (pg_dump, etcd, restic), and AI agent isolation with quotas and default-deny NetworkPolicy | Nov 20, 2026 |
 | [works-only-project-](https://github.com/Jakhangir18/works-only-project-) | Source of tynshimov.com: Astro + GSAP portfolio with a Playwright performance harness run against the production build | Nov 20, 2026 |
 | [Dubhacks2026](https://github.com/Jakhangir18/Dubhacks2026) | Zombie Walk Home (Stride Defense): a projected walking game that turns physical-therapy exercises into play, coached by a Gemini AI therapist. DubHacks '26, winner of MLH Best Use of Gemini API. | Oct 25, 2026 |
 | [ai-debate-arena](https://github.com/Jakhangir18/ai-debate-arena) | Two models argue it out: GPT-4o as a YC partner vs GPT-4o-mini as a senior engineer, then a judge model rules | Oct 12, 2026 |
-| [see-ai](https://github.com/Jakhangir18/see-ai) | Real-time YOLOv8n object detection in the browser with ONNX Runtime Web; no server, inference runs on the device | Oct 12, 2026 |
 <!-- recent:end -->
 
 <picture>
